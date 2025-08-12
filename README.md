@@ -29,8 +29,15 @@ This is a minimal example project. For production use, consider adding:
 - User authentication and scan history
 
 ## Installation
-
-1. Clone the repository:
 ```bash
 git clone https://github.com/Map4yk/MCJarAnalyzer.git
 cd MCJarAnalyzer
+
+pip install flask requests
+python main.py
+```
+
+
+
+
+
