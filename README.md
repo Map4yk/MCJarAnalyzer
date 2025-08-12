@@ -15,7 +15,7 @@ MCJarAnalyzer helps server administrators and players verify that mods don't con
 
 ✅ Quick Mod Scanning: Upload and analyze multiple JAR files at once  
 ✅ Modrinth Verification: Checks if mods are published on Modrinth, a trusted mod repository  
-⚠️ Hitbox Modification Detection: Identifies common code patterns used to modify entity hitboxes  
+⚠️ Hitbox Modification Detection: Identifies common code patterns used to hitboxes  
 🌐 Simple Web Interface: User-friendly design for easy mod verification  
 📦 Batch Processing: Analyze multiple mods in one go  
 
@@ -25,8 +25,6 @@ This is a minimal example project. For production use, consider adding:
 - Database integration for caching scan results
 - Additional function pattern checks
 - Integration with CurseForge API for more comprehensive mod verification
-- More sophisticated code analysis (e.g., bytecode inspection)
-- User authentication and scan history
 
 ## Installation
 ```bash
