@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## Интерфейс
+## Interface
 
 ![Скриншот интерфейса MCJarAnalyzer](https://github.com/Map4yk/MCJarAnalyzer/blob/main/templates/ss.png?raw=true)
 
